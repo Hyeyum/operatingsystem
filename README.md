@@ -1,5 +1,5 @@
 # operatingsystem
-skku comedu 22-2 Operating System
+22-2 SKKU COMEDU Operating System(류은석)
 
 Term Project #1. Round-Robin Scheduling
 
